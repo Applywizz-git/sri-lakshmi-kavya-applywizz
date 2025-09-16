@@ -82,7 +82,7 @@ export const personalInfo: PersonalInfo = {
     "Proficient in React.js, Node.js, Express.js, Python, SQL, REST APIs, Redux, Firebase, Docker, and AWS, with demonstrated ability to integrate real-time data, API services, and interactive UI/UX.",
     "Strong foundation in database design, deployment pipelines, and agile collaboration, capable of delivering scalable and maintainable end-to-end solutions."
   ],
-  profileImage: "/public/kavya_image.jpg",
+  profileImage: "/kavya_image.jpg",
   resumeUrl: "/resume.pdf"
 };
 
