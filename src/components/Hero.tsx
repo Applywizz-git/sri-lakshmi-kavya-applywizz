@@ -169,7 +169,7 @@ export default function Hero() {
                 transition={{ duration: 0.3 }}
               >
                 <img
-                  src={personalInfo.profileImage}
+                  src="./public/kavya_image1.jpg"
                   alt={`${personalInfo.name} - Principal Software Developer`}
                   className="w-full h-full object-cover"
                   loading="eager"
